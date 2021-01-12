@@ -2,12 +2,12 @@ Invisibility_Cloak
 
 This project includes beautiful demonstration of openCV(Computer Vision) library of python as one gets Invisible while standing in front of webcam using specific color of Cloak.
 
-Concepts used :
+<h3>Concepts used :</h3></br>
 
-1.Image thresholding
-2.Image masking
-3.Space Conversion
-4.Video input
+1.Image thresholding</br>
+2.Image masking</br>
+3.Space Conversion</br>
+4.Video input</br>
 
 System Requirements: 
 Python 3 , OpenCV, Numpy installed.
