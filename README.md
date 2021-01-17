@@ -12,7 +12,7 @@ This project includes beautiful demonstration of openCV(Computer Vision) library
 
 Python 3 , OpenCV, Numpy installed.
 
-How to use this project:
+<h3>How to use this project:</h3></br>
 
 1.Keep the PC stable and ensure that there in no human infront of webcam initially.</br>
 2.Run the python script given above.</br>
